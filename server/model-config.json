@@ -39,11 +39,11 @@
     "dataSource": null
   },
   "charge": {
-    "dataSource": "mongoDb",
+    "dataSource": "db",
     "public": true
   },
   "token": {
-    "dataSource": "mongoDb",
+    "dataSource": "db",
     "public": true
   }
 }
